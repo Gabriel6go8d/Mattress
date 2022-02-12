@@ -1,0 +1,68 @@
+[
+    {
+        "size" : "Sizes",
+        "box" : "Box",
+        "matt" : "Matt",
+        "rail" : "Rails",
+        "adjBNo" : "Without",
+        "adjBNo_pos" : [0,0],
+        "adjBYes" : "With",
+        "adjBYes_pos" : [0,0],
+        "platform" : "Plataform"
+    },
+    {
+        "size" : "Twin",
+        "box" : "$143",
+        "matt" : "$48",
+        "rail" : "$58",
+        "adjBNo" : "No",
+        "adjBNo_pos" : [0,0],
+        "adjBYes" : "No",
+        "adjBYes_pos" : [0,0],
+        "platform" : "$153"
+    },
+    {
+        "size" : "TXL",
+        "box" : "$144",
+        "matt" : "No",
+        "rail" : "No",
+        "adjBNo" : "$693",
+        "adjBNo_pos" : [9,13],
+        "adjBYes" : "$1198",
+        "adjBYes_pos" : [8,13],
+        "platform" : "No"
+    },
+    {
+        "size" : "Full",
+        "box" : "$188",
+        "matt" : "$58",
+        "rail" : "$77",
+        "adjBNo" : "$693",
+        "adjBNo_pos" : [2,13],
+        "adjBYes" : "$1198",
+        "adjBYes_pos" : [0,0],
+        "platform" : "$208"
+    },
+    {
+        "size" : "Queen",
+        "box" : "$188",
+        "matt" : "$68",
+        "rail" : "$88",
+        "adjBNo" : "$861",
+        "adjBNo_pos" : [10,13],
+        "adjBYes" : "$1198",
+        "adjBYes_pos" : [16,13],
+        "platform" : "$218"
+    },
+    {
+        "size" : "King",
+        "box" : "$288",
+        "matt" : "$78",
+        "rail" : "$98",
+        "adjBNo" : "$981",
+        "adjBNo_pos" : [11,13],
+        "adjBYes" : "$1198",
+        "adjBYes_pos" : [17,13],
+        "platform" : "$238"
+    }
+]
