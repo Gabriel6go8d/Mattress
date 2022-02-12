@@ -11,6 +11,7 @@ function BedView(props) {
     const [acce_inv, setAcce_inv] = useState([]);
     const [acce_inv2, setAcce_inv2] = useState([]);
     const [bedinv, setBedInv] = useState(["","","","",""]);
+    const [rolled, setRolled] = useState([]);
 
     const user = useContext(UserContext);
 
@@ -90,17 +91,17 @@ function BedView(props) {
                     <h1>{thisBed.name}</h1>
                     <h5>{thisBed.id}</h5>
                     <h4>Type: {thisBed.type.toUpperCase()}</h4>
-                    <h4>Count: Not Set</h4>
+                    <h4>Comes: {thisBed.rolled}</h4>
                     <div className='mt-5'>
                         <h4>Stock</h4>
                         {thisBed.size.map((ss, index) => <h4 key={index}>{bedinv[index]} - {ss}</h4>)}
                     </div>
-                    <div className='mt-5'>
+                    <div className='mt-4'>
                         <h4>Stores</h4>
                         <h5>Richardson: 1002 N Central Expy, 75080</h5>
                         <h5>Dallas: 5545 Lyndon B Johnson Fwy, 75240</h5>
                     </div>
-                    <div className='mt-5'>
+                    <div className='mt-4'>
                         <h4>Sizes</h4>
                         <h5>Twin: 39" x 75"</h5>
                         <h5>TXL: 39" x 80"</h5>

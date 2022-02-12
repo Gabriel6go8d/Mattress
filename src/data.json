@@ -4,300 +4,343 @@
         "name" : "Stella 10", 
         "look" : "stella",
         "type" : "firm",
-        "size" : ["Twin", "TXL", "Full", "Queen", "King"]
+        "size" : ["Twin", "TXL", "Full", "Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_2",
         "name" : "Serenity 12,5", 
         "look" : "serenity",
         "type" : "firm",
-        "size" : ["Queen", "King"]
+        "size" : ["Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_3",
         "name" : "Julia 12", 
         "look" : "julia",
         "type" : "firm",
-        "size" : ["Queen", "King"]
+        "size" : ["Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_4",
         "name" : "Harmony Chill 12", 
         "look" : "harmony chill",
         "type" : "medium",
-        "size" : ["TXL", "Queen", "King"]
+        "size" : ["TXL", "Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_5",
         "name" : "Primerest Lux 13,5", 
         "look" : "primerest lux",
         "type" : "soft",
-        "size" : ["TXL", "Queen", "King"]
+        "size" : ["TXL", "Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_6",
         "name" : "Primerest Ultra 12,5", 
         "look" : "primerest ultra",
         "type" : "medium",
-        "size" : ["TXL", "Queen", "King"]
+        "size" : ["TXL", "Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_7",
         "name" : "Primerest Firm 11", 
         "look" : "primerest 11",
         "type" : "firm",
-        "size" : ["TXL", "Queen", "King"]
+        "size" : ["TXL", "Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_8",
         "name" : "Hanna 10", 
         "look" : "hanna",
         "type" : "firm",
-        "size" : ["Twin", "Full", "Queen", "King"]
+        "size" : ["Twin", "Full", "Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_9",
         "name" : "Claudia 11", 
         "look" : "claudia",
         "type" : "medium",
-        "size" : ["Full", "Queen", "King"]
+        "size" : ["Full", "Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_10",
         "name" : "Silver 12", 
         "look" : "silver",
         "type" : "soft",
-        "size" : ["TXL", "Full", "Queen", "King"]
+        "size" : ["TXL", "Full", "Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_11",
         "name" : "Fusion Ortho 10,5", 
         "look" : "ortho",
         "type" : "firm",
-        "size" : ["King"]
+        "size" : ["King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_12",
         "name" : "BlueSky Firm 11", 
         "look" : "bluesky 11",
         "type" : "firm",
-        "size" : ["Full", "Queen", "King"]
+        "size" : ["Full", "Queen", "King"],
+        "rolled" : "Flat" 
     },
     {
         "id" : "bed_13",
         "name" : "Ashley 12", 
         "look" : "ashley",
         "type" : "medium",
-        "size" : ["Full", "Queen", "King"]
+        "size" : ["Full", "Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_14",
         "name" : "Pearl 12,5", 
         "look" : "pearl",
         "type" : "soft",
-        "size" : ["Queen", "King"]
+        "size" : ["Queen", "King"],
+        "rolled" : "Flat" 
     },
     {
         "id" : "bed_15",
         "name" : "MCC1 15", 
         "look" : "mcc1",
         "type" : "soft",
-        "size" : ["Queen", "King"]
+        "size" : ["Queen", "King"],
+        "rolled" : "Not Found" 
     },
     {
         "id" : "bed_16",
         "name" : "BlueSky Lux 14", 
         "look" : "bluesky lux",
         "type" : "soft",
-        "size" : ["Queen", "King"]
+        "size" : ["Queen", "King"],
+        "rolled" : "Flat" 
     },
     {
         "id" : "bed_17",
         "name" : "Victory 13", 
         "look" : "victory",
         "type" : "soft",
-        "size" : ["Queen", "King"]
+        "size" : ["Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_18",
         "name" : "Sleeptronic Posture Gel 1400", 
         "look" : "posture gel plush",
         "type" : "soft",
-        "size" : ["Queen"]
+        "size" : ["Queen"],
+        "rolled" : "Not Found" 
     },
     {
         "id" : "bed_19",
         "name" : "Adrian 8,5", 
         "look" : "adrian",
         "type" : "firm",
-        "size" : ["Twin", "Full", "Queen"]
+        "size" : ["Twin", "Full", "Queen"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_20",
         "name" : "BlueSky Ultra 13", 
         "look" : "bluesky ultra",
         "type" : "medium",
-        "size" : ["Queen", "King"]
+        "size" : ["Queen", "King"],
+        "rolled" : "Flat" 
     },
     {
         "id" : "bed_21",
         "name" : "Mprove 15", 
         "look" : "mprove",
         "type" : "soft",
-        "size" : ["Queen", "King"]
+        "size" : ["Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_22",
         "name" : "Dreamer Bamboo 8", 
         "look" : "bamboo",
         "type" : "firm",
-        "size" : ["Queen"]
+        "size" : ["Queen"],
+        "rolled" : "Not Found" 
     },
     {
         "id" : "bed_23",
         "name" : "Liberty 14", 
         "look" : "liberty",
         "type" : "soft",
-        "size" : ["Queen"]
+        "size" : ["Queen"],
+        "rolled" : "Not Found" 
     },
     {
         "id" : "bed_24",
         "name" : "Signature Hybrid 13,5", 
         "look" : "signature hybrid",
         "type" : "soft",
-        "size" : ["Queen", "King"]
+        "size" : ["Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_25",
         "name" : "SC Delta", 
         "look" : "delta",
         "type" : "soft",
-        "size" : ["Queen", "King"]
+        "size" : ["Queen", "King"],
+        "rolled" : "Flat" 
     },
     {
         "id" : "bed_26",
         "name" : "Madrid 10,5", 
         "look" : "madrid",
         "type" : "medium",
-        "size" : ["Twin", "Full", "Queen", "King"]
+        "size" : ["Twin", "Full", "Queen", "King"],
+        "rolled" : "Flat" 
     },
     {
         "id" : "bed_27",
         "name" : "Harmony Plus 10", 
-        "look" : "harmony +",
+        "look" : "harmony+",
         "type" : "firm",
-        "size" : ["TXL", "Full", "Queen", "King"]
+        "size" : ["TXL", "Full", "Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_28",
         "name" : "MCC3 12", 
         "look" : "dont",
         "type" : "firm",
-        "size" : ["Queen"]
+        "size" : ["Queen"],
+        "rolled" : "Not Found" 
     },
     {
         "id" : "bed_29",
         "name" : "MCC3 14", 
         "look" : "dont",
         "type" : "soft",
-        "size" : ["King"]
+        "size" : ["King"],
+        "rolled" : "Not Found" 
     },
     {
         "id" : "bed_30",
         "name" : "Madrid 10,5", 
         "look" : "Madrid",
         "type" : "medium",
-        "size" : ["Twin", "Full", "Queen", "King"]
+        "size" : ["Twin", "Full", "Queen", "King"],
+        "rolled" : "Flat" 
     },
     {
         "id" : "bed_31",
         "name" : "Miranda 9,5", 
         "look" : "miranda",
         "type" : "medium",
-        "size" : ["Twin", "Full", "Queen"]
+        "size" : ["Twin", "Full", "Queen"],
+        "rolled" : "Flat" 
     },
     {
         "id" : "bed_32",
         "name" : "Dylan 12", 
         "look" : "dylan pt",
         "type" : "soft",
-        "size" : ["Twin", "Full", "Queen", "King"]
+        "size" : ["Twin", "Full", "Queen", "King"],
+        "rolled" : "Flat" 
     },
     {
         "id" : "bed_33",
         "name" : "Dylan 10", 
         "look" : "dylan firm",
         "type" : "firm",
-        "size" : ["Twin", "Full", "Queen", "King"]
+        "size" : ["Twin", "Full", "Queen", "King"],
+        "rolled" : "Flat" 
     },
     {
         "id" : "bed_34",
         "name" : "Monaco 11", 
         "look" : "monaco",
         "type" : "medium",
-        "size" : ["Twin", "Full"]
+        "size" : ["Twin", "Full"],
+        "rolled" : "Flat" 
     },
     {
         "id" : "bed_35",
         "name" : "Monaco 11", 
         "look" : "monaco",
         "type" : "medium",
-        "size" : ["Twin", "Full"]
+        "size" : ["Twin", "Full"],
+        "rolled" : "Flat" 
     },
     {
         "id" : "bed_36",
         "name" : "Elegant Hybrid 11,5", 
         "look" : "elegant hybrid",
         "type" : "firm",
-        "size" : ["Queen", "King"]
+        "size" : ["Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_37",
         "name" : "Fusion Lux 12", 
         "look" : "fusion lux",
         "type" : "soft",
-        "size" : ["TXL", "Queen", "King"]
+        "size" : ["TXL", "Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_38",
         "name" : "Fusion Supreme 12", 
         "look" : "fusion supreme",
         "type" : "medium",
-        "size" : ["TXL", "Full", "Queen", "King"]
+        "size" : ["TXL", "Full", "Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_39",
         "name" : "Well Flex 12", 
         "look" : "wellflex",
         "type" : "medium",
-        "size" : ["TXL", "Queen", "King"]
+        "size" : ["TXL", "Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_40",
         "name" : "Melody 9,5", 
         "look" : "melody",
         "type" : "firm",
-        "size" : ["Twin", "Full", "Queen", "King"]
+        "size" : ["Twin", "Full", "Queen", "King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_41",
         "name" : "Signature Hybrid 13,5", 
         "look" : "signature hybrid",
         "type" : "soft",
-        "size" : ["Queen","King"]
+        "size" : ["Queen","King"],
+        "rolled" : "Rolled" 
     },
     {
         "id" : "bed_42",
         "name" : "Royal Dreamer Pillow Top", 
         "look" : "royal dreamer pt",
         "type" : "soft",
-        "size" : ["Full", "King"]
+        "size" : ["Full", "King"],
+        "rolled" : "Not Found" 
     },
     {
         "id" : "bed_43",
         "name" : "Serenity 12,5", 
         "look" : "serenity",
         "type" : "firm",
-        "size" : ["Queen", "King"]
+        "size" : ["Queen", "King"],
+        "rolled" : "Rolled" 
     }
 ]
