@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mattress/static/css/main.acde30b8.css",
+    "main.js": "/Mattress/static/js/main.b908c615.js",
+    "static/js/787.b4c8a3f9.chunk.js": "/Mattress/static/js/787.b4c8a3f9.chunk.js",
+    "static/media/mlily.png": "/Mattress/static/media/mlily.cee7448f6b8a03385fc2.png",
+    "index.html": "/Mattress/index.html",
+    "main.acde30b8.css.map": "/Mattress/static/css/main.acde30b8.css.map",
+    "main.b908c615.js.map": "/Mattress/static/js/main.b908c615.js.map",
+    "787.b4c8a3f9.chunk.js.map": "/Mattress/static/js/787.b4c8a3f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acde30b8.css",
+    "static/js/main.b908c615.js"
+  ]
+}
