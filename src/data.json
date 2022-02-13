@@ -1,6 +1,6 @@
 [
     {
-        "id" : "bed_1",
+        "id" : "Bed_1",
         "name" : "Stella 10", 
         "look" : "stella",
         "type" : "firm",
@@ -8,7 +8,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_2",
+        "id" : "Bed_2",
         "name" : "Serenity 12,5", 
         "look" : "serenity",
         "type" : "firm",
@@ -16,7 +16,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_3",
+        "id" : "Bed_3",
         "name" : "Julia 12", 
         "look" : "julia",
         "type" : "firm",
@@ -24,7 +24,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_4",
+        "id" : "Bed_4",
         "name" : "Harmony Chill 12", 
         "look" : "harmony chill",
         "type" : "medium",
@@ -32,7 +32,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_5",
+        "id" : "Bed_5",
         "name" : "Primerest Lux 13,5", 
         "look" : "primerest lux",
         "type" : "soft",
@@ -40,7 +40,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_6",
+        "id" : "Bed_6",
         "name" : "Primerest Ultra 12,5", 
         "look" : "primerest ultra",
         "type" : "medium",
@@ -48,7 +48,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_7",
+        "id" : "Bed_7",
         "name" : "Primerest Firm 11", 
         "look" : "primerest 11",
         "type" : "firm",
@@ -56,7 +56,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_8",
+        "id" : "Bed_8",
         "name" : "Hanna 10", 
         "look" : "hanna",
         "type" : "firm",
@@ -64,7 +64,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_9",
+        "id" : "Bed_9",
         "name" : "Claudia 11", 
         "look" : "claudia",
         "type" : "medium",
@@ -72,7 +72,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_10",
+        "id" : "Bed_10",
         "name" : "Silver 12", 
         "look" : "silver",
         "type" : "soft",
@@ -80,7 +80,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_11",
+        "id" : "Bed_11",
         "name" : "Fusion Ortho 10,5", 
         "look" : "ortho",
         "type" : "firm",
@@ -88,7 +88,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_12",
+        "id" : "Bed_12",
         "name" : "BlueSky Firm 11", 
         "look" : "bluesky 11",
         "type" : "firm",
@@ -96,7 +96,7 @@
         "rolled" : "Flat" 
     },
     {
-        "id" : "bed_13",
+        "id" : "Bed_13",
         "name" : "Ashley 12", 
         "look" : "ashley",
         "type" : "medium",
@@ -104,7 +104,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_14",
+        "id" : "Bed_14",
         "name" : "Pearl 12,5", 
         "look" : "pearl",
         "type" : "soft",
@@ -112,7 +112,7 @@
         "rolled" : "Flat" 
     },
     {
-        "id" : "bed_15",
+        "id" : "Bed_15",
         "name" : "MCC1 15", 
         "look" : "mcc1",
         "type" : "soft",
@@ -120,7 +120,7 @@
         "rolled" : "Not Found" 
     },
     {
-        "id" : "bed_16",
+        "id" : "Bed_16",
         "name" : "BlueSky Lux 14", 
         "look" : "bluesky lux",
         "type" : "soft",
@@ -128,7 +128,7 @@
         "rolled" : "Flat" 
     },
     {
-        "id" : "bed_17",
+        "id" : "Bed_17",
         "name" : "Victory 13", 
         "look" : "victory",
         "type" : "soft",
@@ -136,7 +136,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_18",
+        "id" : "Bed_18",
         "name" : "Sleeptronic Posture Gel 1400", 
         "look" : "posture gel plush",
         "type" : "soft",
@@ -144,7 +144,7 @@
         "rolled" : "Not Found" 
     },
     {
-        "id" : "bed_19",
+        "id" : "Bed_19",
         "name" : "Adrian 8,5", 
         "look" : "adrian",
         "type" : "firm",
@@ -152,7 +152,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_20",
+        "id" : "Bed_20",
         "name" : "BlueSky Ultra 13", 
         "look" : "bluesky ultra",
         "type" : "medium",
@@ -160,7 +160,7 @@
         "rolled" : "Flat" 
     },
     {
-        "id" : "bed_21",
+        "id" : "Bed_21",
         "name" : "Mprove 15", 
         "look" : "mprove",
         "type" : "soft",
@@ -168,7 +168,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_22",
+        "id" : "Bed_22",
         "name" : "Dreamer Bamboo 8", 
         "look" : "bamboo",
         "type" : "firm",
@@ -176,7 +176,7 @@
         "rolled" : "Not Found" 
     },
     {
-        "id" : "bed_23",
+        "id" : "Bed_23",
         "name" : "Liberty 14", 
         "look" : "liberty",
         "type" : "soft",
@@ -184,7 +184,7 @@
         "rolled" : "Not Found" 
     },
     {
-        "id" : "bed_24",
+        "id" : "Bed_24",
         "name" : "Signature Hybrid 13,5", 
         "look" : "signature hybrid",
         "type" : "soft",
@@ -192,7 +192,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_25",
+        "id" : "Bed_25",
         "name" : "SC Delta", 
         "look" : "delta",
         "type" : "soft",
@@ -200,7 +200,7 @@
         "rolled" : "Flat" 
     },
     {
-        "id" : "bed_26",
+        "id" : "Bed_26",
         "name" : "Madrid 10,5", 
         "look" : "madrid",
         "type" : "medium",
@@ -208,7 +208,7 @@
         "rolled" : "Flat" 
     },
     {
-        "id" : "bed_27",
+        "id" : "Bed_27",
         "name" : "Harmony Plus 10", 
         "look" : "harmony+",
         "type" : "firm",
@@ -216,7 +216,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_28",
+        "id" : "Bed_28",
         "name" : "MCC3 12", 
         "look" : "dont",
         "type" : "firm",
@@ -224,7 +224,7 @@
         "rolled" : "Not Found" 
     },
     {
-        "id" : "bed_29",
+        "id" : "Bed_29",
         "name" : "MCC3 14", 
         "look" : "dont",
         "type" : "soft",
@@ -232,7 +232,7 @@
         "rolled" : "Not Found" 
     },
     {
-        "id" : "bed_30",
+        "id" : "Bed_30",
         "name" : "Madrid 10,5", 
         "look" : "Madrid",
         "type" : "medium",
@@ -240,7 +240,7 @@
         "rolled" : "Flat" 
     },
     {
-        "id" : "bed_31",
+        "id" : "Bed_31",
         "name" : "Miranda 9,5", 
         "look" : "miranda",
         "type" : "medium",
@@ -248,7 +248,7 @@
         "rolled" : "Flat" 
     },
     {
-        "id" : "bed_32",
+        "id" : "Bed_32",
         "name" : "Dylan 12", 
         "look" : "dylan pt",
         "type" : "soft",
@@ -256,7 +256,7 @@
         "rolled" : "Flat" 
     },
     {
-        "id" : "bed_33",
+        "id" : "Bed_33",
         "name" : "Dylan 10", 
         "look" : "dylan firm",
         "type" : "firm",
@@ -264,7 +264,7 @@
         "rolled" : "Flat" 
     },
     {
-        "id" : "bed_34",
+        "id" : "Bed_34",
         "name" : "Monaco 11", 
         "look" : "monaco",
         "type" : "medium",
@@ -272,7 +272,7 @@
         "rolled" : "Flat" 
     },
     {
-        "id" : "bed_35",
+        "id" : "Bed_35",
         "name" : "Monaco 11", 
         "look" : "monaco",
         "type" : "medium",
@@ -280,7 +280,7 @@
         "rolled" : "Flat" 
     },
     {
-        "id" : "bed_36",
+        "id" : "Bed_36",
         "name" : "Elegant Hybrid 11,5", 
         "look" : "elegant hybrid",
         "type" : "firm",
@@ -288,7 +288,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_37",
+        "id" : "Bed_37",
         "name" : "Fusion Lux 12", 
         "look" : "fusion lux",
         "type" : "soft",
@@ -296,7 +296,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_38",
+        "id" : "Bed_38",
         "name" : "Fusion Supreme 12", 
         "look" : "fusion supreme",
         "type" : "medium",
@@ -304,7 +304,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_39",
+        "id" : "Bed_39",
         "name" : "Well Flex 12", 
         "look" : "wellflex",
         "type" : "medium",
@@ -312,7 +312,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_40",
+        "id" : "Bed_40",
         "name" : "Melody 9,5", 
         "look" : "melody",
         "type" : "firm",
@@ -320,7 +320,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_41",
+        "id" : "Bed_41",
         "name" : "Signature Hybrid 13,5", 
         "look" : "signature hybrid",
         "type" : "soft",
@@ -328,7 +328,7 @@
         "rolled" : "Rolled" 
     },
     {
-        "id" : "bed_42",
+        "id" : "Bed_42",
         "name" : "Royal Dreamer Pillow Top", 
         "look" : "royal dreamer pt",
         "type" : "soft",
@@ -336,7 +336,7 @@
         "rolled" : "Not Found" 
     },
     {
-        "id" : "bed_43",
+        "id" : "Bed_43",
         "name" : "Serenity 12,5", 
         "look" : "serenity",
         "type" : "firm",

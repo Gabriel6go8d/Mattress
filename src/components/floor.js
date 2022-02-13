@@ -113,7 +113,7 @@ function Floor(props) {
     setShowBedId(!showbedid)
     data.forEach(ele => {
       if (showbedid) {
-        document.getElementById(ele.id+'bedId').innerHTML = ele.id.split('_')[1] +" "+ ele.name
+        document.getElementById(ele.id+'bedId').innerHTML = ele.id+"<br/>"+ ele.name
       }else{
         document.getElementById(ele.id+'bedId').innerHTML = ""
       }      
@@ -130,10 +130,10 @@ function Floor(props) {
   return (
     <div id='floor' className='floor'>  
       <div className='row'>
-        <div className='col-md-2'>
-          <Bed orientation='hor' id="bed_1"/>
-          <Bed orientation='hor' id="bed_2"/>
-          <Bed orientation='hor' id="bed_3"/>
+        <div className='col-md-2 west'>
+          <Bed id="Bed_1"/>
+          <Bed id="Bed_2"/>
+          <Bed id="Bed_3"/>
 
           <button className='btn btn-dark w-100 mt-5 group1' id="firm" onClick={() => high("firm", 1)}>Firm</button>
           <button className='btn btn-dark w-100 mt-2 group1' id="medium" onClick={() => high("medium", 1)}>Medium</button>
@@ -148,66 +148,66 @@ function Floor(props) {
         </div>
 
         <div className='col-md-7'>
-          <div className='row justify-content-around'>
-            <Bed id="bed_4"/>
-            <Bed id="bed_5"/>
-            <Bed id="bed_6"/>
-            <Bed id="bed_7"/>
+          <div className='row justify-content-around north'>
+            <Bed id="Bed_4"/>
+            <Bed id="Bed_5"/>
+            <Bed id="Bed_6"/>
+            <Bed id="Bed_7"/>
           </div>
-          <div className='row mt-4 justify-content-around reverse'>
-            <Bed id="bed_8"/>
-            <Bed id="bed_9"/>
-            <Bed id="bed_10"/>
-            <Bed id="bed_11"/>
+          <div className='row mt-4 justify-content-around south'>
+            <Bed id="Bed_8"/>
+            <Bed id="Bed_9"/>
+            <Bed id="Bed_10"/>
+            <Bed id="Bed_11"/>
           </div>
-          <div className='row  justify-content-around'>
-            <Bed id="bed_12"/>
-            <Bed id="bed_13"/>
-            <Bed id="bed_14"/>
-            <Bed id="bed_15"/>
+          <div className='row  justify-content-around north'>
+            <Bed id="Bed_12"/>
+            <Bed id="Bed_13"/>
+            <Bed id="Bed_14"/>
+            <Bed id="Bed_15"/>
           </div>
-          <div className='row mt-4 justify-content-around reverse'>
-            <Bed id="bed_16"/>
-            <Bed id="bed_17"/>
-            <Bed id="bed_18"/>
-            <Bed id="bed_19"/>
+          <div className='row mt-4 justify-content-around south'>
+            <Bed id="Bed_16"/>
+            <Bed id="Bed_17"/>
+            <Bed id="Bed_18"/>
+            <Bed id="Bed_19"/>
           </div>
-          <div className='row justify-content-around'>
-            <Bed id="bed_20"/>
-            <Bed id="bed_21"/>
-            <Bed id="bed_22"/>
-            <Bed id="bed_23"/>
+          <div className='row justify-content-around north'>
+            <Bed id="Bed_20"/>
+            <Bed id="Bed_21"/>
+            <Bed id="Bed_22"/>
+            <Bed id="Bed_23"/>
           </div>
-          <div className='row mt-4 justify-content-around reverse'>
-            <Bed id="bed_24"/>
-            <Bed id="bed_25"/>
-            <Bed id="bed_26"/>
-            <Bed id="bed_27"/>
+          <div className='row mt-4 justify-content-around south'>
+            <Bed id="Bed_24"/>
+            <Bed id="Bed_25"/>
+            <Bed id="Bed_26"/>
+            <Bed id="Bed_27"/>
           </div>
-          <div className='row justify-content-around'>
-            <Bed id="bed_28"/>
-            <Bed id="bed_29"/>
-            <Bed id="bed_30"/>
-            <Bed id="bed_31"/>
+          <div className='row justify-content-around north'>
+            <Bed id="Bed_28"/>
+            <Bed id="Bed_29"/>
+            <Bed id="Bed_30"/>
+            <Bed id="Bed_31"/>
           </div>
-          <div className='row mt-4 justify-content-around'>
-            <Bed id="bed_32"/>
-            <Bed id="bed_33"/>
-            <Bed id="bed_34"/>
-            <Bed id="bed_35"/>
+          <div className='row mt-4 justify-content-around south'>
+            <Bed id="Bed_32"/>
+            <Bed id="Bed_33"/>
+            <Bed id="Bed_34"/>
+            <Bed id="Bed_35"/>
           </div>
         </div>
 
 
-        <div className='col-md-2'>
-          <Bed orientation='hor' id="bed_36"/>
-          <Bed orientation='hor' id="bed_37"/>
-          <Bed orientation='hor' id="bed_38"/>
-          <Bed orientation='hor' id="bed_39"/>
-          <Bed orientation='hor' id="bed_40"/>
-          <Bed orientation='hor' id="bed_41"/>
-          <Bed orientation='hor' id="bed_42"/>
-          <Bed orientation='hor' id="bed_43"/>
+        <div className='col-md-2 east'>
+          <Bed id="Bed_36"/>
+          <Bed id="Bed_37"/>
+          <Bed id="Bed_38"/>
+          <Bed id="Bed_39"/>
+          <Bed id="Bed_40"/>
+          <Bed id="Bed_41"/>
+          <Bed id="Bed_42"/>
+          <Bed id="Bed_43"/>
         </div>
       </div>
     </div>

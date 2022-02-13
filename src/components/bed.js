@@ -6,11 +6,6 @@ function Bed(props) {
 
     const goBedView = useContext(UserContext);
 
-    var pop = "bed"
-    if (props.orientation === "hor"){
-        pop += " " + props.orientation
-    }
-
     function gotoBed(){
         document.getElementById("parent_view").style.opacity = 0
         setTimeout(() =>{
@@ -19,11 +14,13 @@ function Bed(props) {
     }    
 
     return (
-        <div className={pop} id={props.id} > 
-            <div className='ellipse'></div>
-            <div className='ellipse'></div>
-            <div id={props.id+'text'} className='text_child' onClick={() => gotoBed()}></div>  
-            <div id={props.id+'bedId'} className='text_child_id'></div>
+        <div className="bed" id={props.id} onClick={() => gotoBed()}>
+            <div className="pillows">
+                <div className='ellipse'></div>
+                <div className='ellipse'></div>
+            </div>             
+            <div id={props.id+'text'} className='text_stock'></div>  
+            <div id={props.id+'bedId'} className='text_id'></div>
         </div>
     );
 }
