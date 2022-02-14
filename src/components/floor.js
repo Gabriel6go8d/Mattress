@@ -18,47 +18,46 @@ function Floor(props) {
       if(status[0] === element.type && status[1] === "" ){  
         document.getElementById(element.id).classList.add("high")
       } 
-      if(status[0] === "" && element.size.includes(status[1]) ){        
-        document.getElementById(element.id).classList.add("high")
-      }
-      if(status[0] === element.type && element.size.includes(status[1]) ){        
-        document.getElementById(element.id).classList.add("high")
+      if(status[0] === "" || status[0] === element.type ){        
+        if (element.size.includes(status[1])){
+          document.getElementById(element.id).classList.add("high")
 
-        var size_temp
-        var inv_value = "NF"
-        switch (status[1]) {
-          case "Twin":
-            size_temp = 0
-            break;
-          case "TXL":
-            size_temp = 0
-            break;
-          case "Full":
-            size_temp = 3
-            break;
-          case "Queen":
-            size_temp = 6
-            break;  
-          case "King":
-            size_temp = 9
-            break;      
-          default:
-            break;
-        }
-        for (let qq = 0; qq < 70; qq++) {
-          const celda = props.excel[qq][size_temp].toUpperCase()
-          if (status[1] === "Twin" && celda === "TXL"){
-            break
+          var size_temp
+          var inv_value = "NF"
+          switch (status[1]) {
+            case "Twin":
+              size_temp = 0
+              break;
+            case "TXL":
+              size_temp = 0
+              break;
+            case "Full":
+              size_temp = 3
+              break;
+            case "Queen":
+              size_temp = 6
+              break;  
+            case "King":
+              size_temp = 9
+              break;      
+            default:
+              break;
           }
-          if (celda.includes(element.look.toUpperCase())) {            
-            inv_value = props.excel[qq][size_temp+1]        
+          for (let qq = 0; qq < 70; qq++) {
+            const celda = props.excel[qq][size_temp].toUpperCase()
+            if (status[1] === "Twin" && celda === "TXL"){
+              break
+            }
+            if (celda.includes(element.look.toUpperCase())) {            
+              inv_value = props.excel[qq][size_temp+1]        
+            }
           }
+  
+          if (inv_value === "0" || inv_value === "NF"){
+            document.getElementById(element.id).classList.add("not_found_inv")
+          }
+          document.getElementById(element.id + "text").innerText = inv_value
         }
-
-        if (inv_value === "0" || isNaN(inv_value)){
-          document.getElementById(element.id).classList.add("not_found_inv")
-        }
-        document.getElementById(element.id + "text").innerText = inv_value
       }
     });
     props.setSelection(status)  
