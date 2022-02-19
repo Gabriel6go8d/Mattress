@@ -114,10 +114,10 @@
     {
         "id" : "Bed_15",
         "name" : "MCC1 15", 
-        "look" : "mcc1",
+        "look" : "mcc1 ",
         "type" : "soft",
         "size" : ["Queen", "King"],
-        "rolled" : "Not Found" 
+        "rolled" : "Flat" 
     },
     {
         "id" : "Bed_16",
@@ -141,7 +141,7 @@
         "look" : "posture gel plush",
         "type" : "soft",
         "size" : ["Queen"],
-        "rolled" : "Not Found" 
+        "rolled" : "Rolled" 
     },
     {
         "id" : "Bed_19",
@@ -173,7 +173,7 @@
         "look" : "bamboo",
         "type" : "firm",
         "size" : ["Queen"],
-        "rolled" : "Not Found" 
+        "rolled" : "Rolled" 
     },
     {
         "id" : "Bed_23",
@@ -193,7 +193,7 @@
     },
     {
         "id" : "Bed_25",
-        "name" : "SC Delta", 
+        "name" : "Delta 10", 
         "look" : "delta",
         "type" : "soft",
         "size" : ["Queen", "King"],
@@ -221,7 +221,7 @@
         "look" : "dont",
         "type" : "firm",
         "size" : ["Queen"],
-        "rolled" : "Not Found" 
+        "rolled" : "Flat" 
     },
     {
         "id" : "Bed_29",
@@ -229,7 +229,7 @@
         "look" : "dont",
         "type" : "soft",
         "size" : ["King"],
-        "rolled" : "Not Found" 
+        "rolled" : "Flat" 
     },
     {
         "id" : "Bed_30",
@@ -329,11 +329,11 @@
     },
     {
         "id" : "Bed_42",
-        "name" : "Royal Dreamer Pillow Top", 
-        "look" : "royal dreamer pt",
-        "type" : "soft",
-        "size" : ["Full", "King"],
-        "rolled" : "Not Found" 
+        "name" : "Weston 10", 
+        "look" : "weston",
+        "type" : "medium",
+        "size" : ["Queen", "King"],
+        "rolled" : "Flat" 
     },
     {
         "id" : "Bed_43",
