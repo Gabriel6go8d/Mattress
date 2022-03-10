@@ -169,10 +169,10 @@
     },
     {
         "id" : "Bed_22",
-        "name" : "Dreamer Bamboo 8", 
-        "look" : "bamboo",
-        "type" : "firm",
-        "size" : ["Queen"],
+        "name" : "Serene 7", 
+        "look" : "Serene 7",
+        "type" : "Medium",
+        "size" : ["Twin", "Full", "Queen"],
         "rolled" : "Rolled" 
     },
     {
@@ -193,10 +193,10 @@
     },
     {
         "id" : "Bed_25",
-        "name" : "Delta 10", 
-        "look" : "delta",
-        "type" : "soft",
-        "size" : ["Queen", "King"],
+        "name" : "Royal Sage 10", 
+        "look" : "sage",
+        "type" : "firm",
+        "size" : ["King"],
         "rolled" : "Flat" 
     },
     {
@@ -217,9 +217,9 @@
     },
     {
         "id" : "Bed_28",
-        "name" : "MCC3 12", 
-        "look" : "dont",
-        "type" : "firm",
+        "name" : "MCC7 Plush 13", 
+        "look" : "mcc7",
+        "type" : "soft",
         "size" : ["Queen"],
         "rolled" : "Flat" 
     },
@@ -241,15 +241,15 @@
     },
     {
         "id" : "Bed_31",
-        "name" : "Miranda 9,5", 
-        "look" : "miranda",
-        "type" : "medium",
-        "size" : ["Twin", "Full", "Queen"],
+        "name" : "Dylan PT 12", 
+        "look" : "dylan pt",
+        "type" : "soft",
+        "size" : ["Twin", "Full", "Queen", "King"],
         "rolled" : "Flat" 
     },
     {
         "id" : "Bed_32",
-        "name" : "Dylan 12", 
+        "name" : "Dylan PT 12", 
         "look" : "dylan pt",
         "type" : "soft",
         "size" : ["Twin", "Full", "Queen", "King"],
@@ -265,8 +265,8 @@
     },
     {
         "id" : "Bed_34",
-        "name" : "Monaco 11", 
-        "look" : "monaco",
+        "name" : "Metis 12", 
+        "look" : "metis",
         "type" : "medium",
         "size" : ["Twin", "Full"],
         "rolled" : "Flat" 
