@@ -226,7 +226,7 @@
     {
         "id" : "Bed_29",
         "name" : "MCC3 14", 
-        "look" : "dont",
+        "look" : "mcc3",
         "type" : "soft",
         "size" : ["King"],
         "rolled" : "Flat" 
