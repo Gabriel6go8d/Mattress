@@ -164,7 +164,7 @@
         "name" : "Mprove 15", 
         "look" : "mprove",
         "type" : "soft",
-        "size" : ["Queen", "King"],
+        "size" : ["TLX", "Queen", "King"],
         "rolled" : "Rolled" 
     },
     {
@@ -193,9 +193,9 @@
     },
     {
         "id" : "Bed_25",
-        "name" : "Royal Sage 10", 
-        "look" : "sage",
-        "type" : "firm",
+        "name" : "Harvest Pillow Top 12", 
+        "look" : "dont",
+        "type" : "medium",
         "size" : ["King"],
         "rolled" : "Flat" 
     },
@@ -249,10 +249,10 @@
     },
     {
         "id" : "Bed_32",
-        "name" : "Dylan PT 12", 
-        "look" : "dylan pt",
-        "type" : "soft",
-        "size" : ["Twin", "Full", "Queen", "King"],
+        "name" : "Royal Sage 10", 
+        "look" : "sage",
+        "type" : "firm",
+        "size" : ["King"],
         "rolled" : "Flat" 
     },
     {
