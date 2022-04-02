@@ -252,7 +252,7 @@
         "name" : "Royal Sage 10", 
         "look" : "sage",
         "type" : "firm",
-        "size" : ["King"],
+        "size" : ["Queen"],
         "rolled" : "Flat" 
     },
     {

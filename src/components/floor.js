@@ -26,19 +26,19 @@ function Floor(props) {
           var inv_value = "NF"
           switch (status[1]) {
             case "Twin":
-              size_temp = 0
+              size_temp = 1
               break;
             case "TXL":
-              size_temp = 0
+              size_temp = 1
               break;
             case "Full":
-              size_temp = 3
+              size_temp = 4
               break;
             case "Queen":
-              size_temp = 6
+              size_temp = 7
               break;  
             case "King":
-              size_temp = 9
+              size_temp = 10
               break;      
             default:
               break;
