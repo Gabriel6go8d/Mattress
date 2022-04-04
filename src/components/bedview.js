@@ -32,19 +32,19 @@ function BedView(props) {
             var inv_value = "NF"
             switch (ss) {
             case "Twin":
-                size_temp = 1
+                size_temp = 0
                 break;
             case "TXL":
-                size_temp = 1
+                size_temp = 0
                 break;
             case "Full":
-                size_temp = 4
+                size_temp = 3
                 break;
             case "Queen":
-                size_temp = 7
+                size_temp = 6
                 break;  
             case "King":
-                size_temp = 10
+                size_temp = 9
                 break;      
             default:
                 break;
