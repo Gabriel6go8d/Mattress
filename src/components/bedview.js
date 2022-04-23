@@ -38,13 +38,13 @@ function BedView(props) {
                 size_temp = 0
                 break;
             case "Full":
-                size_temp = 3
+                size_temp = 4
                 break;
             case "Queen":
-                size_temp = 6
+                size_temp = 8
                 break;  
             case "King":
-                size_temp = 9
+                size_temp = 12
                 break;      
             default:
                 break;
@@ -55,8 +55,8 @@ function BedView(props) {
                     break
                 }                     
                 if (celda.includes(thisBed.look.toUpperCase())) {                           
-                    inv_value = props.excel[qq][size_temp+1]  
-                    console.log(qq + "," + size_temp+1)      
+                    inv_value = props.excel[qq][size_temp+2]  
+                    console.log(qq + "," + size_temp+2)      
                 }
             }
             bed_inv.push(inv_value)
